@@ -48,3 +48,5 @@ console.log(calculateTotalMortgage(10, 1000, 20000, 24)); // 21042.09
 console.log(calculateTotalMortgage(10, 20000, 20000, 24)); // 0
 console.log(calculateTotalMortgage(10, 0, 10000, 36)); // 11616.19
 console.log(calculateTotalMortgage(15, 0, 10000, 36)); // 12479.52
+
+// тесты прошли
