@@ -41,12 +41,13 @@
 //}
 //
 //main();
-function showTariff(name, ...advantages){
-  console.log(`Тариф: ${name}`);
-  for(let i = 0; i < advantages.length; i++){
-    console.log(`-${advantages[i]}`);
-  }
-}
-showTariff("Базовый","Кровать на чердаке","Беседы с дядей Ваней");
-showTariff("Премиум","Кровать на чердаке","Беседы с дядей Ваней",
-          "Кофе в постель", "Раздельный санузел");
+//function showTariff(name, ...advantages){
+//  console.log(`Тариф: ${name}`);
+//  for(let i = 0; i < advantages.length; i++){
+//    console.log(`-${advantages[i]}`);
+//  }
+//}
+//showTariff("Базовый","Кровать на чердаке","Беседы с дядей Ваней");
+//showTariff("Премиум","Кровать на чердаке","Беседы с дядей Ваней",
+//          "Кофе в постель", "Раздельный санузел");
+
